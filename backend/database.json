@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "Raphael",
+      "message": "Seja bem vindo(a) ao meu blog pessoal!"
+    },
+    {
+      "id": 2,
+      "name": "Priscila",
+      "message": "Sou psicóloga!"
+    },
+    {
+      "id": 3,
+      "name": "Renato",
+      "message": "Esta é minha primeira postagem!"
+    },
+    {
+      "id": 4,
+      "name": "bllackdev",
+      "message": "Nova postagem!"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "blog-bllackdev",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch database.json --port 3000"
+  },
+  "keywords": [],
+  "author": "bllackdev",
+  "license": "MIT",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
+}
