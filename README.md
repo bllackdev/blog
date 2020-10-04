@@ -15,3 +15,11 @@ Construir uma API com Json-Server e consumir os dados em um feed de mensagens de
 - ng new blog
 - cd blog 
 - ng serve
+
+#### Bootstrap - Framework CSS
+- npm i bootstrap
+- npm i jquery@~3.4.1
+- npm i popper.js
+
+#### Fontawesome - Pacotes de Icones
+- ng add @fortawesome/angular-fontawesome
