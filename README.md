@@ -2,6 +2,7 @@
 
 Construir uma API com Json-Server e consumir os dados em um feed de mensagens desenvolvido em Angular.
 
+### 🚧 Em construção... 🚧
 ### Back-End
 
 - npm init - y
@@ -23,6 +24,9 @@ Construir uma API com Json-Server e consumir os dados em um feed de mensagens de
 
 #### Fontawesome - Pacotes de Icones
 - ng add @fortawesome/angular-fontawesome
+<<<<<<< HEAD
 
 #### Construindo Service
 - ng g s service/post
+=======
+>>>>>>> 8eff36c4eaa9717dc9e90ac2ea6007038add0659
