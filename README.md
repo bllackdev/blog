@@ -23,3 +23,6 @@ Construir uma API com Json-Server e consumir os dados em um feed de mensagens de
 
 #### Fontawesome - Pacotes de Icones
 - ng add @fortawesome/angular-fontawesome
+
+#### Construindo Service
+- ng g s service/post
